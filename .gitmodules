@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/aliyun-oss-wordpress"]
+	path = wp-content/plugins/aliyun-oss-wordpress
+	url = https://github.com/shdwu/aliyun-oss-wordpress.git
